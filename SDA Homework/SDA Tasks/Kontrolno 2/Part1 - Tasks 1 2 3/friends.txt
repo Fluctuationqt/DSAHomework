@@ -1,0 +1,7 @@
+Petya + Petur : 0.8
+Stamat + Grigorka : 0.6
+Gosho + Otpochivka : 0.3
+Hristo + Botev : 0.2
+Petya + Otpochivka : 0.7
+Otpochivka + Stamat : 0.5
+Stamat + Petur : 0.6
